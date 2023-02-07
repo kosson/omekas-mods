@@ -6,7 +6,7 @@ Aici se va ține evidența modificărilor făcute asupra template-ului Default p
 
 A fost adus fișierul din `/application/view/site/item/browse.phtml` în `themes/nipne/view/omeka/site/item/browse.phtml`.
 
-A fost modificată sursa la foreach-ul care afișează un set de n resurse în zona de răsfoie (browse) a acestora. Codul modificat este marcat cu un comentariu `mod nipne`.
+A fost modificată sursa la foreach-ul care afișează un set de n resurse în zona de răsfoire (browse) a acestora. Codul modificat este marcat cu un comentariu `mod nipne`.
 
 ```php
 foreach ($items as $item):
